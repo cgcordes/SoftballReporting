@@ -1,5 +1,5 @@
-# SoftballReporting
+# Pitcher Softball Reporting
 
-Using reporting inspired by tony baseball and adjsuting to be more softball relevant. 
+Reporting inspired by tony baseball and using ball tracking data. 
 
 Make sure you have both files downloaded as well as the game files from the teams channel
